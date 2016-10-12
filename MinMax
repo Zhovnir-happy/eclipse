@@ -1,0 +1,18 @@
+public class Main {
+public static void main(String[] args) {
+	int f=5;
+	int g=24;
+	int h=48;
+		if (f<=g&&f<=h)
+			System.out.println("rezult is "+f);
+			if(g<=f&&g<=h)
+			System.out.println("rezult is "+g);
+			    if(h<=f&&h<=g)
+			    	System.out.println("rezult is "+h);
+			  
+			{
+			
+			}
+	
+}
+}
